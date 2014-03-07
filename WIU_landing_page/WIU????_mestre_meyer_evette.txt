@@ -1,0 +1,7 @@
+Evette Mestre Meyer #2457636
+Web Interface & Usability, Sec 1
+B1 Assignment: Usability & Testing Landing Page
+
+http://evettemm.github.io/WIU/WIU_landing_page/index.html
+
+http://evettemm.github.io/WIU/WIU_landing_page/css/main.css
